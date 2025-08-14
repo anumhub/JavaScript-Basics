@@ -1,5 +1,7 @@
 This repository includes basics of javascript langauge that helps in API Automation testing. I am running programs in visual studio code.
 
+   ![JavascriptProgram](https://github.com/anumhub/JavaScript-Basics/blob/main/Screenshot%202025-08-14%20at%201.26.35%20PM.png)
+
 Concepts include :
 -  how to print anything in javascipt 
 - Variables
@@ -16,7 +18,7 @@ How to push code to GitHub repository steps
 6. git commit -m “message”
 7. git push -u origin main
 
-   ![JavascriptProgram](https://github.com/anumhub/JavaScript-Basics/blob/main/Screenshot%202025-08-14%20at%201.26.35%20PM.png)
+
 
 if ERROR occur in pushing code, then run the below commands: 
 
