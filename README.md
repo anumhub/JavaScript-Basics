@@ -18,5 +18,5 @@ How to push code to GitHub repository steps
 
 if ERROR occur in pushing code, then run the below commands: 
 
-1. git pull —rebase origin main
+1. git pull --rebase origin main
 2. git push -u origin main
